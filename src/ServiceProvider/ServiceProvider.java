@@ -19,11 +19,6 @@ public class ServiceProvider {
 	int consumer_id;
 	String[] parts;
 	
-	
-	public static void main(String args[]) {
-		
-	}
-	
 	public ServiceProvider() {
 		parts = new String[8];
 	}
